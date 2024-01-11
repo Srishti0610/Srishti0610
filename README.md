@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from India, currently pursuing my Master's in Computer Science at the University of Texas at Arlington 🎓(USA). With a solid foundation in software engineering and a Master's in Computer Applications from Mount Carmel College, I bring a diverse set of skills to the coding table.</h3>
 
 
-- ⚡ Fun fact **When I'm not immersed in the world of coding and algorithms, you might catch me exploring the art of culinary delights! I have a knack for experimenting with diverse cuisines and crafting delicious recipes. From elegant desserts to savory dishes, the kitchen is my canvas for culinary adventures. Bon appétit! 🍲👩‍🍳**
+- **⚡ Fun fact:  Outside the coding realm, I love playing with flavors in the kitchen! Cooking is my way of unwinding, and I enjoy experimenting with different cuisines. Bon appétit! 🍲👩‍🍳**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
