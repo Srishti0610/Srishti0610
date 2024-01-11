@@ -1,11 +1,6 @@
 <h1 align="center">👋 Hello, I'm Srishti Madan Raikar</h1>
 <h3 align="center">A passionate software developer from India, currently pursuing my Master's in Computer Science at the University of Texas at Arlington 🎓(USA). With a solid foundation in software engineering and a Master's in Computer Applications from Mount Carmel College, I bring a diverse set of skills to the coding table.</h3>
 
-- 🌱 I’m currently learning **enter new courses**
-
-- 👨‍💻 All of my projects are available at [work on it](work on it)
-
-- 📫 How to reach me **srishtimadanraikar@gmail.com**
 
 - ⚡ Fun fact **When I'm not immersed in the world of coding and algorithms, you might catch me exploring the art of culinary delights! I have a knack for experimenting with diverse cuisines and crafting delicious recipes. From elegant desserts to savory dishes, the kitchen is my canvas for culinary adventures. Bon appétit! 🍲👩‍🍳**
 
