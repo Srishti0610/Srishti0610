@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Srishti Madan Raikar</h1>
-<h3 align="center">A passionate software developer from India, currently pursuing my Master's in Computer Science at the University of Texas at Arlington 🎓(USA). With a solid foundation in software engineering and a Master's in Computer Applications from Mount Carmel College Autonomous, I bring a diverse set of skills to the coding table.</h3>
+<h3 align="center">A passionate software developer from India, currently pursuing my Master's in Computer Science at the University of Texas at Arlington 🎓(USA). With a solid foundation in software engineering and a Master's in Computer Applications from Mount Carmel College, I bring a diverse set of skills to the coding table.</h3>
 
 - 🌱 I’m currently learning **enter new courses**
 
