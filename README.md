@@ -1,4 +1,6 @@
 <h1 align="left">Srishti Madan Raikar</h1>
+<img style="width: 100%;height: 600px;"  src="cartoon digital 674cae63-f787-4e49-a12e-638c49352ab4.png" />
+
 <h3 align="justify">A passionate software developer from India, currently pursuing my Master's in Computer Science at the University of Texas at Arlington 🎓(USA). With a solid foundation in software engineering and a Master's in Computer Applications from Mount Carmel College, I bring a diverse set of skills to the coding table.</h3>
 
 
