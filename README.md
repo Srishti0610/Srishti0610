@@ -1,11 +1,21 @@
 <h1 align="left">Srishti Madan Raikar</h1>
 <img style="width: 100%;height: 600px;"  src="cartoon digital 674cae63-f787-4e49-a12e-638c49352ab4.png" />
 
-<h3 align="justify">A passionate software developer from India, currently pursuing my Master's in Computer Science at the University of Texas at Arlington 🎓(USA). With a solid foundation in software engineering and a Master's in Computer Applications from Mount Carmel College, I bring a diverse set of skills to the coding table.</h3>
-
-
-<br/>
-**⚡⚡ Outside the coding realm, I love playing with flavors in the kitchen! Cooking is my way of unwinding, and I enjoy experimenting with different cuisines. Bon appétit! 🍲👩‍🍳 ⚡⚡**
+<h3 align="justify">
+Hello there! I'm Srishti Madan Raikar, a passionate and experienced software developer passionate about innovation and excellence. 
+  <br/><br/>
+🎓 I hold a Master of Science in Computer Science from The University of Texas at Arlington and a Master of Computer Applications from Mount Carmel College Autonomous, Bangalore.
+<br/><br/>
+My skill set includes proficiency in a range of programming languages, including Python, Java, C++, C#, PHP, JavaScript, and TypeScript, as well as expertise in various technology stacks and tools. I'm well-versed in MS Visual Studio, Eclipse, Android Studio, Visual Studio Code, PyCharm, Tomcat, Apache, Nginx, AWS (Amazon Web Services), Azure, Google Cloud Platform, Docker, Scrum, Agile, REST, Selenium, and Jest.
+<br/><br/>
+Professionally, I've worked as a Software Developer at Thingstel Tech Solutions Pvt. Ltd. I've also worked as a Graduate Teaching Assistant at The University of Texas at Arlington. I've also taken on leadership roles, mentoring students and assisting in project development at FabLab. My projects showcase my machine learning, sentiment analysis, and cloud-based solutions expertise.
+<br/><br/>
+Some of my achievements include reducing project timelines by 25% using Agile methodologies, increasing team productivity by 70% through training and coaching, and improving forecast accuracy by 15% through integrating advanced statistical techniques. I've also developed and presented prize-winning machine learning models and data visualizations.
+<br/><br/>
+I'm proud of my accomplishments and excited to continue pushing boundaries in software development. Feel free to connect with me on LinkedIn or explore my work on GitHub!
+<br/><br/></h3>
+<h3>Fun Fact:</h3>
+⚡⚡ Outside the coding realm, I love playing with flavors in the kitchen! Cooking is my way of unwinding, and I enjoy experimenting with different cuisines. Bon appétit! 🍲👩‍🍳 ⚡⚡
 <br/>
 <br/>
 <br/>
