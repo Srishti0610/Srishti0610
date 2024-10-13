@@ -14,9 +14,7 @@ Some of my achievements include reducing project timelines by 25% using Agile me
 <br/><br/>
 I'm proud of my accomplishments and excited to continue pushing boundaries in software development. Feel free to connect with me on LinkedIn or explore my work on GitHub!
 <br/><br/></h3>
-<h3>Fun Fact:</h3>
-⚡⚡ Outside the coding realm, I love playing with flavors in the kitchen! Cooking is my way of unwinding, and I enjoy experimenting with different cuisines. Bon appétit! 🍲👩‍🍳 ⚡⚡
-<br/>
+
 <br/>
 <br/>
 <br/>
